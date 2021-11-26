@@ -12,3 +12,4 @@ char *StrCpy(char* src){
     *src='/0';
     return q;
 }
+//maodunlema
